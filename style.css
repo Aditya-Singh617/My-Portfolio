@@ -30,6 +30,7 @@ section{
     /* height: 800px; */
     min-height: 700px;
     align-items: center;
+    align-content: center;
   
 }
 
