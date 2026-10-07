@@ -4,6 +4,7 @@
 }
 
 .nav{
+
     display: flex;
     justify-content:space-between;
     background-color: white;
@@ -22,7 +23,7 @@ a{
     font-size:28px;
     font-weight: bolder;
     color: #3A86FF;
-
+    margin-left: 50px;
 }
 section{
     display: flex;
